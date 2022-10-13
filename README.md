@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanjanajoshi19
-- 👀 I’m interested in Machine learning, Web Development 
+- 👀 I’m interested in Backend Development and Machine Learning 
 - 🌱 I’m currently learning Machine Learning and DevOps
 - 💞️ I’m looking to collaborate on any projects related to ML
 - 📫 You can reach me at sanjana.joshi182@gmail.com
